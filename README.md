@@ -1,8 +1,3 @@
-<div align="center">
-<img src="" align="center" style="width: 100%" />
-</div>  
-  
-
 ### <div align="center">I'm Gustavo Silva, a full-stack developer 👨‍💻 working remotely since 2019 🚀</div>  
   
 
